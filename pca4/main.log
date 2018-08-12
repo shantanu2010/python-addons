@@ -1,0 +1,28 @@
+2018-05-18 19:12:59,721 : [ERROR] -> __main__: This is a log from main at ERROR level
+2018-05-18 19:12:59,722 : [WARNING] -> __main__: This is a log from main at ERROR level
+2018-05-18 19:12:59,722 : [INFO] -> __main__: Entering Main
+2018-05-18 19:12:59,722 : [INFO] -> p1.m1: Entering method f1
+2018-05-18 19:12:59,722 : [WARNING] -> p1.m1: This is a log from f1 at WARNING level
+2018-05-18 19:12:59,722 : [ERROR] -> p1.m1: This is a log from f1 at ERROR level
+2018-05-18 19:12:59,723 : [DEBUG] -> p1.m1: Leaving method f1
+2018-05-18 19:12:59,723 : [INFO] -> p1.m1: Entering method f2
+2018-05-18 19:12:59,723 : [WARNING] -> p1.m1: This is a log from f2 at WARNING level
+2018-05-18 19:12:59,723 : [ERROR] -> p1.m1: This is a log from f2 at ERROR level
+2018-05-18 19:12:59,723 : [DEBUG] -> p1.m1: Leaving method f2
+2018-05-18 19:12:59,723 : [INFO] -> p1.p2.m2: Entering function f3
+2018-05-18 19:12:59,724 : [WARNING] -> p1.p2.m2: This cannot be done using function f3
+2018-05-18 19:12:59,724 : [ERROR] -> p1.p2.m2: Error occurred in function f3
+2018-05-18 19:12:59,724 : [DEBUG] -> p1.p2.m2: Leaving function f3
+2018-05-18 19:12:59,724 : [INFO] -> p1.p2.m2: Entering method f4
+2018-05-18 19:12:59,724 : [WARNING] -> p1.p2.m2: This is a log from f4 at WARNING level
+2018-05-18 19:12:59,724 : [ERROR] -> p1.p2.m2: This is a log from f4 at ERROR level
+2018-05-18 19:12:59,725 : [DEBUG] -> p1.p2.m2: Leaving method f4
+2018-05-18 19:12:59,725 : [INFO] -> p1.m3: Entering method f5
+2018-05-18 19:12:59,725 : [WARNING] -> p1.m3: This is a log from f5 at WARNING level
+2018-05-18 19:12:59,725 : [ERROR] -> p1.m3: This is a log from f5 at ERROR level
+2018-05-18 19:12:59,725 : [DEBUG] -> p1.m3: Leaving method f5
+2018-05-18 19:12:59,725 : [INFO] -> p1.p3.m4: Entering method f6
+2018-05-18 19:12:59,726 : [WARNING] -> p1.p3.m4: This is a log from f6 at WARNING level
+2018-05-18 19:12:59,726 : [ERROR] -> p1.p3.m4: This is a log from f6 at ERROR level
+2018-05-18 19:12:59,726 : [DEBUG] -> p1.p3.m4: Leaving method f6
+2018-05-18 19:12:59,726 : [ERROR] -> __main__: Exiting Main
